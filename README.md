@@ -43,11 +43,3 @@
 </p>
 
 <br>
-
-## 🧪 Contributing
-
-Feel free to fork this and make your own version of NyxPack. If you’ve got cool improvements or extra styles, make a pull request!
-
-## 📜 License
-
-[MIT License](./LICENSE) — free to use, modify, and share. Just credit where it’s due 🌙
